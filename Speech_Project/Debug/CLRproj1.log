@@ -1,0 +1,6 @@
+﻿  Test_train.cpp
+D:\IITGMtech\FirstSemester\SpeechProcessing\FinalProject\CLRProj1\Test_train.cpp(17,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+D:\IITGMtech\FirstSemester\SpeechProcessing\FinalProject\CLRProj1\Test_train.cpp(27): warning C4700: uninitialized local variable 'levelsize' used
+  Aguero.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CLRproj1.vcxproj -> D:\IITGMtech\FirstSemester\SpeechProcessing\FinalProject\CLRProj1\Debug\CLRproj1.exe
